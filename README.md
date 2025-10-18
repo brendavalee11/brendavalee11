@@ -1,4 +1,4 @@
-♡ Meu Linkedin:
+>> Meu Linkedin:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/brenda-vale-131045384/">
