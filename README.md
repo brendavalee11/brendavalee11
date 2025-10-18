@@ -4,3 +4,4 @@
   </a>
 </div> 
 
+/pequenos_projetos : Pasta destinada a pequenos projetos feitos na trajetória acadêmica.
